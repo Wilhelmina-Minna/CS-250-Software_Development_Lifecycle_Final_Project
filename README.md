@@ -6,11 +6,15 @@ How do I interpret user needs and implement them into a program? How does creati
 
   Empathy and translation should be the focus for interpreting user needs rather than looking at it as a list of requirements needed for a project. Sometimes developers miss what the users are thinking in terms of what their goals are and the frustrations they have as well as the needs that they have for an application. By identifying the underlying problem that the users have and trying to solve that for them we can better interpret what the user needs are to better implement features into a program. User Stories are the best way in helping with this process, as you use a format that can easily be read and understood by anyone. As a(n) <type of user>, I want to <perform some task>, So that I can <achieve some goal>. By creating User Stories with clearly written Value Statements, they serve as a way to communicate with the development team as well as the non-technical stakeholders. User Stories also provide a clear checklist of Acceptance Criteria that shows what must be met to complete a feature of the program so that we can define what is done within the project and move onto new features. User Stories help to also prevent feature creep by making sure every line of code serves the end user.
 
+  
+
 **Development Approach and Agile Processes for Future Work**
 
 How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
   My approach to developing a program is based on interactive refinement rather than building one massive system at once. Building smaller parts means I can test and improve upon the features within the program which reduces risk and allows me to learn from my failures. In future work, I plan to continue to work using Sprints from the Agile process which allows for frequent review, testing, and reassessment of priorities based on feedback. Daily stand-up meetings, sprint reviews, and retrospective are a few events to help with keeping the team communication strong and everyone up to date on where tasks stand as well as looking back on work that went well and did not go well, that way improvements can be made. Continuous Integration and Continuous Deployment (CI/CD) is a practice that ensures code is continuously tested and integrated to prevent issues from rising at the end of the project.
+
+  
 
 **Good Teamwork in Software Development**
 
